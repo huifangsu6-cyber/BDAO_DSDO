@@ -1,0 +1,4 @@
+peak_coverage_group,restaurant_count,avg_stars,pct_4_stars_or_above,avg_review_count,avg_peak_coverage_rate
+High coverage,7390,3.02,22.52,76.4,0.922
+Partial coverage,32902,3.599,48.52,102.7,0.441
+No coverage,4698,3.995,71.09,97.9,0.0
