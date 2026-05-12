@@ -1,0 +1,41 @@
+city_rank,city,state,total_restaurants_in_city,price_tier,price_tier_label,restaurant_count,avg_stars,budget_avg_stars,star_difference_vs_budget,pct_4_stars_or_above,does_mid_range_beat_budget_in_city
+1,Philadelphia,PA,2830,1,Budget (1),1320,3.396,3.396,0.0,42.35,Yes - mid-range higher than budget
+1,Philadelphia,PA,2830,2,Mid-range (2),1387,3.632,3.396,0.236,49.1,Yes - mid-range higher than budget
+1,Philadelphia,PA,2830,3,Upscale (3),98,3.893,3.396,0.497,63.27,Yes - mid-range higher than budget
+1,Philadelphia,PA,2830,4,Fine dining (4),25,3.96,3.396,0.564,72.0,Yes - mid-range higher than budget
+2,Indianapolis,IN,1631,1,Budget (1),897,3.116,3.116,0.0,33.56,Yes - mid-range higher than budget
+2,Indianapolis,IN,1631,2,Mid-range (2),687,3.778,3.116,0.662,61.43,Yes - mid-range higher than budget
+2,Indianapolis,IN,1631,3,Upscale (3),43,4.012,3.116,0.895,76.74,Yes - mid-range higher than budget
+2,Indianapolis,IN,1631,4,Fine dining (4),4,3.5,3.116,0.384,75.0,Yes - mid-range higher than budget
+3,Tampa,FL,1555,1,Budget (1),763,3.313,3.313,0.0,40.89,Yes - mid-range higher than budget
+3,Tampa,FL,1555,2,Mid-range (2),746,3.79,3.313,0.477,59.65,Yes - mid-range higher than budget
+3,Tampa,FL,1555,3,Upscale (3),42,3.917,3.313,0.604,71.43,Yes - mid-range higher than budget
+3,Tampa,FL,1555,4,Fine dining (4),4,4.0,3.313,0.687,75.0,Yes - mid-range higher than budget
+4,Tucson,AZ,1401,1,Budget (1),788,3.203,3.203,0.0,28.68,Yes - mid-range higher than budget
+4,Tucson,AZ,1401,2,Mid-range (2),582,3.681,3.203,0.478,50.34,Yes - mid-range higher than budget
+4,Tucson,AZ,1401,3,Upscale (3),28,3.75,3.203,0.547,53.57,Yes - mid-range higher than budget
+4,Tucson,AZ,1401,4,Fine dining (4),3,3.5,3.203,0.297,33.33,Yes - mid-range higher than budget
+5,Nashville,TN,1318,1,Budget (1),587,3.224,3.224,0.0,39.01,Yes - mid-range higher than budget
+5,Nashville,TN,1318,2,Mid-range (2),652,3.721,3.224,0.497,55.21,Yes - mid-range higher than budget
+5,Nashville,TN,1318,3,Upscale (3),68,3.875,3.224,0.651,66.18,Yes - mid-range higher than budget
+5,Nashville,TN,1318,4,Fine dining (4),11,3.909,3.224,0.685,63.64,Yes - mid-range higher than budget
+6,New Orleans,LA,1156,1,Budget (1),399,3.351,3.351,0.0,45.36,Yes - mid-range higher than budget
+6,New Orleans,LA,1156,2,Mid-range (2),664,3.865,3.351,0.514,65.66,Yes - mid-range higher than budget
+6,New Orleans,LA,1156,3,Upscale (3),85,3.912,3.351,0.561,69.41,Yes - mid-range higher than budget
+6,New Orleans,LA,1156,4,Fine dining (4),8,4.313,3.351,0.962,87.5,Yes - mid-range higher than budget
+7,Saint Louis,MO,902,1,Budget (1),452,3.343,3.343,0.0,41.37,Yes - mid-range higher than budget
+7,Saint Louis,MO,902,2,Mid-range (2),423,3.645,3.343,0.302,49.17,Yes - mid-range higher than budget
+7,Saint Louis,MO,902,3,Upscale (3),23,3.848,3.343,0.505,60.87,Yes - mid-range higher than budget
+7,Saint Louis,MO,902,4,Fine dining (4),4,3.25,3.343,-0.093,25.0,Yes - mid-range higher than budget
+8,Reno,NV,702,1,Budget (1),271,3.114,3.114,0.0,28.04,Yes - mid-range higher than budget
+8,Reno,NV,702,2,Mid-range (2),409,3.8,3.114,0.685,58.44,Yes - mid-range higher than budget
+8,Reno,NV,702,3,Upscale (3),20,4.05,3.114,0.936,75.0,Yes - mid-range higher than budget
+8,Reno,NV,702,4,Fine dining (4),2,4.25,3.114,1.136,100.0,Yes - mid-range higher than budget
+9,Boise,ID,507,1,Budget (1),253,3.255,3.255,0.0,35.57,Yes - mid-range higher than budget
+9,Boise,ID,507,2,Mid-range (2),244,3.738,3.255,0.483,55.74,Yes - mid-range higher than budget
+9,Boise,ID,507,3,Upscale (3),8,3.813,3.255,0.558,50.0,Yes - mid-range higher than budget
+9,Boise,ID,507,4,Fine dining (4),2,4.25,3.255,0.995,100.0,Yes - mid-range higher than budget
+10,Santa Barbara,CA,391,1,Budget (1),105,3.657,3.657,0.0,60.0,Yes - mid-range higher than budget
+10,Santa Barbara,CA,391,2,Mid-range (2),251,3.928,3.657,0.271,70.12,Yes - mid-range higher than budget
+10,Santa Barbara,CA,391,3,Upscale (3),28,3.964,3.657,0.307,75.0,Yes - mid-range higher than budget
+10,Santa Barbara,CA,391,4,Fine dining (4),7,4.214,3.657,0.557,85.71,Yes - mid-range higher than budget
