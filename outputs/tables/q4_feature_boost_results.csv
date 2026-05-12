@@ -1,0 +1,4 @@
+feature_option,restaurant_count,avg_stars,baseline_avg_stars,estimated_star_boost_vs_none,pct_4_stars_or_above,baseline_restaurant_count
+RestaurantsReservations only,1064,3.612,3.088,0.523,48.87,3802
+Caters only,3707,3.499,3.088,0.411,41.84,3802
+OutdoorSeating only,2395,3.478,3.088,0.39,46.22,3802
