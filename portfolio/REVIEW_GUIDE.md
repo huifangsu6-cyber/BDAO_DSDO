@@ -11,9 +11,11 @@ This guide is a **recruiter-facing reading path** through the existing project. 
 
 ## What I built
 
-- Designed the workflow to ingest multiple Yelp JSON datasets using Google Cloud Storage and BigQuery.
-- Wrote the pipeline and analysis code, including data-quality checks and SQL transformations.
-- Prepared nested and timestamp-based source fields for structured downstream analysis.
+- Organised and standardised source files in Google Cloud Storage, including naming, folder/bucket structure, formats and dataset versions.
+- Designed the shared GCS-to-BigQuery integration workflow and set up cloud data loading and table structures for the group.
+- Coordinated access to prepared datasets so teammates could perform their respective cleaning and analytical workstreams.
+
+**Attribution:** Review and check-in specific transformations/analyses were handled by other group members; those code sections are linked as collaborative project context, not claimed as my individual implementations.
 
 The broader restaurant-success research was a university group assignment. The pipeline/code authorship above describes my personal contribution.
 
