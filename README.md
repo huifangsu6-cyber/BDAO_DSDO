@@ -45,6 +45,15 @@ Python / SQL exploratory and statistical analysis
 Restaurant performance insights and recommendations
 ```
 
+## Try the code locally (no cloud account required)
+
+A small, **synthetic** adaptation of the check-in timestamp transformation is available in [the runnable demo](portfolio/DEMO_GUIDE.md). It includes [Python code](portfolio/checkin_transform_demo.py) and [unit tests](portfolio/tests/test_checkin_transform.py). This new demonstration is separate from the original coursework pipeline and does not use real Yelp data.
+
+```bash
+python portfolio/checkin_transform_demo.py
+python -m unittest discover -s portfolio/tests -v
+```
+
 ## Start here: evidence in this repository
 
 | File or folder | What it demonstrates |
