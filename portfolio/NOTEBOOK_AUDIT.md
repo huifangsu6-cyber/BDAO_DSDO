@@ -18,7 +18,7 @@ The notebook contains **39 cells with saved outputs**, so it can provide evidenc
 
 ## Important attribution note
 
-This is a **collaborative notebook** and contains named section markers for different group members (including Jing, Yihe and others). It should **not** be presented as if every cell was personally authored by one person. The repository owner's account of personally designing/building the overall pipeline should be described separately from individual notebook-section authorship. When making specific personal-authorship claims, use independently identifiable files or commit history where possible.
+This is a **collaborative notebook** and contains named section markers for different group members (including Jing, Yihe and others). It should **not** be presented as if every cell was personally authored by one person. The owner has confirmed that her personal responsibility was organising source files in GCS, designing shared cloud integration, and setting up BigQuery data loading/table structures. Dataset-specific review/check-in cleaning and analysis were assigned to other group members. Describe these contributions separately. When making specific personal-authorship claims, use independently identifiable files or commit history where possible.
 
 ## Preliminary sensitive-content scan
 
