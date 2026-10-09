@@ -4,7 +4,7 @@
 
 An end-to-end analytics project using Yelp business, review and check-in data to investigate factors associated with restaurant ratings and translate findings into practical recommendations.
 
-> **My contribution:** I designed and built the data pipeline and wrote the associated data-processing and analysis code. The wider restaurant-success study was completed as a university group project.
+> **My contribution:** I organised and standardised the source files in Google Cloud Storage, designed the shared cloud-data integration workflow, and set up data loading and table structures in BigQuery for the team. Other group members subsequently handled dataset-specific cleaning and analyses, including review and check-in workstreams. This was a collaborative university project.
 
 ## At a glance
 
@@ -47,7 +47,7 @@ Restaurant performance insights and recommendations
 
 ## Try the code locally (no cloud account required)
 
-A small, **synthetic** adaptation of the check-in timestamp transformation is available in [the runnable demo](portfolio/DEMO_GUIDE.md). It includes [Python code](portfolio/checkin_transform_demo.py) and [unit tests](portfolio/tests/test_checkin_transform.py). This new demonstration is separate from the original coursework pipeline and does not use real Yelp data.
+A small, **synthetic** illustration of a teammate-led check-in timestamp transformation is available in [the runnable demo](portfolio/DEMO_GUIDE.md). It includes [Python code](portfolio/checkin_transform_demo.py) and [unit tests](portfolio/tests/test_checkin_transform.py). This new demonstration is separate from the original coursework pipeline and does not use real Yelp data.
 
 ```bash
 python portfolio/checkin_transform_demo.py
