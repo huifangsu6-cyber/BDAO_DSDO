@@ -6,6 +6,10 @@ An end-to-end analytics project using Yelp business, review and check-in data to
 
 > **My contribution:** I organised and standardised the source files in Google Cloud Storage, designed the shared cloud-data integration workflow, and set up data loading and table structures in BigQuery for the team. Other group members subsequently handled dataset-specific cleaning and analyses, including review and check-in workstreams. This was a collaborative university project.
 
+## Featured: my cloud data integration work
+
+**[Read my individual GCS → BigQuery integration case study](portfolio/CLOUD_DATA_INTEGRATION_CASE_STUDY.md)** — source-file standardisation, cloud storage organisation, schema checks, data loading and hand-off to teammates. This is the clearest description of my own responsibilities within the group project.
+
 ## At a glance
 
 | Area | Evidence |
@@ -44,6 +48,10 @@ Python / SQL exploratory and statistical analysis
        v
 Restaurant performance insights and recommendations
 ```
+
+## Optional: runnable transformation illustration (not my original workstream)
+
+The following synthetic demonstration was added later for portfolio illustration. It is **not evidence that I personally authored the group's check-in transformation**.
 
 ## Try the code locally (no cloud account required)
 
